@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    background-color:#DCDCDC;
+}
+header{
+    margin: 15%;
+}
+.row{
+    margin: 5px;
+}
+.wrap-nomer{
+    font-size: 13px;
+}
+.wrap-speak, .wrap-text h6{
+    font-size: 1.5rem;
+}
+.wrap-name{
+    font-weight: bolder;
+}
